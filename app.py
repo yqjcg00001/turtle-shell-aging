@@ -5,6 +5,10 @@
 import os
 import sys
 import numpy as np
+
+if not hasattr(np, 'trapz'):
+    np.trapz = np.trapezoid
+
 import pandas as pd
 import io
 import tempfile
