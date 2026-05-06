@@ -1,0 +1,7 @@
+最终选用的特征:
+  - xrd_max_intensity
+  - xrd_peak1_height
+  - xrd_peak2_height
+  - ir_peak2_position
+  - sem_s_gray_median
+  - sem_c_glcm_contrast
