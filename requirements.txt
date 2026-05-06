@@ -5,7 +5,7 @@ numpy          # 数学计算，处理数组数据
 pandas         # 表格数据处理，读写CSV
 scikit-learn   # 机器学习库（SVM、交叉验证、特征选择等）
 scipy          # 科学计算，用于谱图处理（找峰、平滑等）
-opencv-python  # 图像处理，用于读取和处理SEM图片
+opencv-python-headless  # 图像处理，用于读取和处理SEM图片
 scikit-image   # 图像特征提取（纹理分析GLCM、LBP等）
 matplotlib     # 画图工具，生成结果图片
 seaborn        # 统计图表美化（热力图、混淆矩阵等）
